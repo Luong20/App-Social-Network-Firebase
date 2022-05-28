@@ -1,2 +1,1 @@
-# App-Social-Network-Firebase
-chuyên đề 6
+# Phân tích dữ liệu với R
